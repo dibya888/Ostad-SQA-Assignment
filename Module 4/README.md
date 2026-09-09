@@ -8,7 +8,7 @@ This program takes a number from the user and checks whether it is **even or odd
 
 ## Find the largest of three numbers.
 ### Output
-<img width="1295" height="321" alt="image" src="https://github.com/user-attachments/assets/66098695-8437-4342-b81f-42aadf302a6e" />
+<img width="1321" height="333" alt="image" src="https://github.com/user-attachments/assets/4961f23e-e26d-42f9-9e88-e3fe9d9c9283" />
 
 ### Explanation
 This program takes **three numbers as input** from the user and compares them to find the largest one. The `if...else if...else` statements compare each number with the other two using `>=` and `&&`. The largest number is then displayed using `console.log()`. Finally, `rl.close()` closes the input interface.
