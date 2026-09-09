@@ -27,7 +27,7 @@ This program reverses the string `"JavaScript"`. First, `split("")` converts the
 ### Explanation
 This program takes a **string as input** and counts how many vowels it contains. The `for...of` loop checks each character in the string. The `includes()` method checks whether the character is a vowel (`a, e, i, o, u`) in either uppercase or lowercase. Each time a vowel is found, `vowelsCount` is increased by 1. Finally, the total number of vowels is displayed, and `rl.close()` closes the input interface.
 
-##Remove duplicate values from an array.
+## Remove duplicate values from an array.
 ### Output
 <img width="1293" height="315" alt="image" src="https://github.com/user-attachments/assets/97212a4d-84d7-42aa-a7ca-212fe13533e5" />
 
