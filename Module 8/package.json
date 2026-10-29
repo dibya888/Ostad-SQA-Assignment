@@ -1,0 +1,19 @@
+{
+  "name": "assignment-8",
+  "version": "1.0.0",
+  "description": "This is Selenium based assignment. Demo website: https://demoqa.com/",
+  "keywords": [
+    "Assignent",
+    "SQA"
+  ],
+  "license": "ISC",
+  "author": "Dibya Jyoti Dhar",
+  "type": "module",
+  "main": "base.js",
+  "scripts": {
+    "test": "node base.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.51.0"
+  }
+}
